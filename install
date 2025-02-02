@@ -2,8 +2,7 @@
 
 echo -e "Instalando o configutador do ohmyzsh"
 echo ""
-git clone https://github.com/Visto-Preto/termux_omz_cfg
-mv termux_omz_cfg $PREFIX/share/omzcfg
-ln -s $PREFIX/share/omzcfg/omzcfg
+git clone https://github.com/Visto-Preto/termux_omz_cfg $PREFIX/share/omzcfg
+ln -s $PREFIX/share/omzcfg/omzcfg $PREFIX/bin/omzcfg
 echo ""
 echo -e "para inciar a configuracao execute o comdando `omzcfg`"
