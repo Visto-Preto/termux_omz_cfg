@@ -1,0 +1,7 @@
+#!/usr/bin/bash
+curl -sLf https://raw.githubusercontent.com/Vis
+to-Preto/termux_omz_cfg/refs/heads/master/uninstal
+l | bash
+curl -sLf https://raw.githubusercontent.com/Vis
+to-Preto/termux_omz_cfg/refs/heads/master/instal
+l | bash
