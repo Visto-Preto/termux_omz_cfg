@@ -1,2 +1,2 @@
 #!/usr/bin/bash
-python $PRIFIX/share/omzcfg/setup.py
+python /data/data/com.termux/files/usr/share/omzcfg/setup.py
