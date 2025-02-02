@@ -1,3 +1,4 @@
+#!/usr/bin/python
 import os
 
 # Cores para o terminal

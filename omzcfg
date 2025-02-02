@@ -1,0 +1,2 @@
+#!/usr/bin/bash
+python $PRIFIX/share/omzcfg/setup.py
